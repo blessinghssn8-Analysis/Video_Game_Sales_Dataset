@@ -1,6 +1,6 @@
 ## Video_Game_Sales_Dataset
 Exploratory and insight-driven analysis of global video game sales using Python to reveal growth patterns and demand signals.
-# 🎮 Video Game Sales Analysis
+# Video Game Sales Analysis
 
 ## Project Overview
 This project analyzes global video game sales data to uncover market trends, platform performance, and genre dynamics. It combines exploratory data analysis (EDA) with ensemble machine learning models to identify key drivers of sales and evaluate predictive patterns across regions.
