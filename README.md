@@ -49,13 +49,8 @@ The video game industry is highly competitive and fragmented across platforms, g
 - Matplotlib, Seaborn  
 - Google Colab  
 
-## How to Run the Project
-1. Clone the repository  
-2. Open the notebook in Google Colab or a local Jupyter environment  
-3. Install required dependencies  
-4. Run all cells sequentially to reproduce the analysis
 
-📈 Key Insights
+##Key Insights
 - Global video game sales are heavily concentrated among top platforms and publishers, indicating a winner-takes-most market.
 - Action, Sports, and Shooter genres consistently outperform others in global sales.
 - Platform lifecycle strongly influences sales, with early-to-mid lifecycle years generating peak performance.
@@ -63,30 +58,23 @@ The video game industry is highly competitive and fragmented across platforms, g
 - Legacy platforms show declining sales, signaling clear generational shifts in consumer demand.
 - Regional sales patterns materially differ, impacting genre and platform success.
 
-## 🎮 Market & Sales Trends
+##  Market & Sales Trends
 Sales trends track closely with console release cycles, with sharp growth following major hardware launches and gradual decline toward end-of-life. Certain platforms dominate specific eras, while genre popularity remains relatively stable globally, led by high-engagement, mass-market categories. Publisher dominance suggests scale, brand equity, and distribution reach are key competitive advantages.
 
-## 🌍 Regional Performance Insights
+##  Regional Performance Insights
 - North America and Europe drive the majority of global sales, favoring Action and Sports titles.
 - Japan exhibits distinct preferences, with stronger performance in role-playing and platform-specific titles.
 - Regional sales diversification is limited, reinforcing the need for tailored market strategies rather than global uniformity.
 - Emerging regions contribute marginally but represent long-term growth opportunities.
 
-## 💡 Business & Strategic Recommendations
+##  Business & Strategic Recommendations
 - Align game release timing with platform lifecycle peaks to maximize sales potential.
 - Prioritize high-performing genres while selectively innovating in niche categories for regional markets.
 - Leverage publisher scale through cross-franchise marketing and platform partnerships.
 - Customize regional strategies, particularly for Japan, where genre preferences diverge significantly.
 - Use historical sales decay patterns to inform investment, sequel timing, and platform transition planning.
 
-## 🧠 Portfolio Value Statement
+##  Portfolio Value Statement
 This analysis demonstrates strong exploratory data analysis, trend identification, and business interpretation skills. It highlights the ability to translate raw sales data into executive-level insights and actionable strategy. The work reflects clear data storytelling aligned with real-world commercial decision-making.
 
-
-
-
-
-
-
-## Project Structure
 
